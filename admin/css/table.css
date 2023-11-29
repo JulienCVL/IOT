@@ -1,0 +1,19 @@
+input[type=search]{
+    padding: 0px 10px;
+    margin: 0;
+}
+.row{
+    align-items: baseline;
+}
+nav{
+    background-color: transparent;
+}
+.card{
+    margin: 0 5px 2rem 5px;
+}
+th{
+    text-align: center;
+}
+section h4{
+    margin: 25px;
+}
